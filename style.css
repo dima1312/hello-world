@@ -1,0 +1,105 @@
+	body {*/
+	width: 70%; /* Ширина слоя */
+	margin: 0 auto;  /*Выравнивание по центру */
+	}
+	header {
+	padding: 5px;  /*Отступы вокруг текста */
+	background: #FFFFFF;  
+	}
+	#header{
+	margin: 0 auto;
+	margin-left: 40.2%;
+	width: 307px;
+	}
+	#leftcol {
+	margin: 0 auto;
+	margin-left:40.2%;
+	width: 74px; /* Ширина слоя */
+	height: 47px;
+	}
+#center{
+	width: 74px;
+	height: 47px;
+}
+	#center1{
+	width: 74px; /* Ширина слоя */
+	height: 47px;
+	margin: 0 auto;
+	}
+	#rightcol{
+	margin: 0 auto;
+	width: 74px;
+	height: 47px;
+	}
+	.leftcol{
+	margin: 0 auto;
+	margin-left:40.2%;
+	width: 74px;
+	height: 47px;
+	}
+	#content {
+	margin-left: 130px; /* Отступ слева */
+	padding: 10px; /* Поля вокруг текста */
+	background: #fff; /* Цвет фона правой колонки */
+	}
+	.center{
+	margin: 0 auto;
+	margin-left:40.2%;
+	margin-top:-15px;
+	width: 74px;
+		
+	float: left;
+	}
+	.Rtizer{
+	margin-left:20px;
+	}
+	#Rtizer{
+	margin-left:20px;
+	margin-top:-15px;
+	}
+	#sentember{
+	margin: 0 auto;
+	margin-left:40.2%;
+	width: 74px;
+	height: 47px;
+	}
+	#rightcole{
+	margin: 0 auto;
+	width: 74px;
+	height: 47px; 
+	}
+	.rightcole{
+	margin: 0 auto;
+	margin-left:40.2%;
+	width: 74px;
+	height: 47px;
+	}
+	footer {
+	display: inline-block;
+	margin-top:30px;
+	margin-left:40.2%;
+	background:  #fff;  /* Цвет фона подвала */
+	color: #fff #8fa09b; /* Цвет текста */
+	padding: 5px; /* Отступы вокруг текста */
+	}
+footer{
+	margin-left:37%;
+}
+	ul li{
+	display: inline-block;
+	list-style-type:none;
+	margin-left:20px;
+	}
+	.footer{
+	margin-left:40px;
+	}
+	a:link{
+	color: blue;
+	text-decoration:none;
+	}
+	a:visited{
+	color:black;
+	}
+	/*a:hover{
+
+	}*/
